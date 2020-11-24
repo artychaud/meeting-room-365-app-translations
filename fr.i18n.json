@@ -1,6 +1,7 @@
 {
     "now": "Maintenant",
     "meeting_room": "Salle de réunion",
+    "all_day": "Toute la journée",
     "room_available": "Salle disponible",
     "tap_here_to_reserve": "Tapez ici pour réserver pendant 15 minutes",
     "insufficient_time_to_reserve": "Temps insuffisant pour réserver",
